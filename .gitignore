@@ -7,3 +7,4 @@ ssh/*
 *.out
 plan.out
 creds/credentials
+variables.tfvars
